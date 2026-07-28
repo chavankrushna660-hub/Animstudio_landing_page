@@ -1,0 +1,6 @@
+{
+  "name": "AnimStudio",
+  "description": "Industry Standard Mobile 2D Animation Suite showcase and APK portal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
